@@ -1,0 +1,52 @@
+{
+  "cities": [
+    {
+      "id": "f394",
+      "cityName": "Casablanca",
+      "country": "Morocco",
+      "emoji": "🇲🇦",
+      "date": "2024-04-03T09:13:07.654Z",
+      "notes": "my city where I was born",
+      "position": {
+        "lat": "33.58716733904659",
+        "lng": "-7.481689453125001"
+      }
+    },
+    {
+      "id": "d477",
+      "cityName": "Tiznit",
+      "country": "Morocco",
+      "emoji": "🇲🇦",
+      "date": "2024-04-03T09:13:31.122Z",
+      "notes": "my origins",
+      "position": {
+        "lat": "29.477861195816843",
+        "lng": "-9.645996093750002"
+      }
+    },
+    {
+      "id": "810a",
+      "cityName": "Sevilla",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-04-03T09:14:12.329Z",
+      "notes": "I want to go ",
+      "position": {
+        "lat": "37.431250501793585",
+        "lng": "-5.943603515625001"
+      }
+    },
+    {
+      "id": "d0be",
+      "cityName": "Gyeongsangnam-do",
+      "country": "Korea (the Republic of)",
+      "emoji": "🇰🇷",
+      "date": "2024-04-03T09:15:00.562Z",
+      "notes": "where I live",
+      "position": {
+        "lat": "34.89092963291636",
+        "lng": "128.69384765625003"
+      }
+    }
+  ]
+}
